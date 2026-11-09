@@ -1,4 +1,4 @@
-# Calculadora basada en gestos — Práctica 3
+# Calculadora basada en gestos
 
 **Sistema operativo empleado:** macOS (Apple Silicon), ejecutado con **uv** y Python 3.12.
 
